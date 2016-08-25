@@ -27,6 +27,7 @@ class FamilyMember {
 
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Git is the best!");
         Scanner in = new Scanner(System.in);
         int testCases = Integer.parseInt(in.nextLine());
         while (testCases > 0) {
